@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52205fd1-d303-4b66-927e-9cf1820a843e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/music/noweKLasy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/circleOfFifths.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/circleOfFifths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/octave.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/octave.py" afterDir="false" />
-    </list>
+    <list default="true" id="52205fd1-d303-4b66-927e-9cf1820a843e" name="Default Changelist" comment="First commit - ALLLLLL" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
